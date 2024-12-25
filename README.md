@@ -1,5 +1,5 @@
 # INFS7203-cell-communication-prediction
-This is a full-mark version of the INFS7203 (AKA Data Mining in UQ) course project solution.
+This is a full-mark solution of the INFS7203 AKA Data Mining course project in UQ.
 
 ## Requirements
 
